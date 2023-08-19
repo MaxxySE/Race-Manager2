@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Race Manager</string>
+    <string name="password_hint">Пароль</string>
+    <string name="login_hint">Логин</string>
+    <string name="signin_button">Вход</string>
+    <string name="signup_button">Регистрация</string>
+    <string name="error_auth">Ошибка</string>
+    <string name="accept_btn">Принять</string>
+    <string name="send_btn">Отправить</string>
+    <string name="auth_image">Auth Image</string>
+    <string name="main_image">Main Image</string>
+    <string name="sender_image">Sender Image</string>
+    <string name="receiver_image">Receiver Image</string>
+    <string name="manager_login">Логин менеджера</string>
+    <string name="connect">Подключиться</string>
+    <string name="back_btn">Назад</string>
+    <string name="message_textfield">Введите сообщение</string>
+    <string name="your_login_is">Ваш логин: </string>
+    <string name="something_missed">Вы не заполнили все поля</string>
+    <string name="wrong_data">Неправильный логин или пароль</string>
+    <string name="message_receiver">Сообщение</string>
+    <string name="login_restricted">Логин занят</string>
+    <string name="logout_text">Выйти</string>
+    <string name="message_sent">Сообщение отправлено!</string>
+    <string name="login_connected">Подключено к: </string>
+
+
+    <string name="sender_btn0">смена сейчас!</string>
+    <string name="sender_btn1">5 сек красный</string>
+    <string name="sender_btn2">10 сек красный</string>
+    <string name="sender_btn3">15 сек красный</string>
+    <string name="sender_btn4">20 сек красный</string>
+    <string name="sender_btn5">надо найти 0.1</string>
+    <string name="sender_btn6">stop and go</string>
+    <string name="sender_btn7">синий флаг 1</string>
+    <string name="sender_btn8">синий флаг 2</string>
+    <string name="sender_btn9">не пускай</string>
+    <string name="sender_btn10">едем дальше</string>
+    <string name="sender_btn11">не обгоняй</string>
+    <string name="sender_btn12">надо найти 0.2</string>
+    <string name="sender_btn13">надо найти 0.3</string>
+    <string name="sender_btn14">хороший темп</string>
+    <string name="sender_btn15">плохой темп</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
